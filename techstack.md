@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Pkan-Iv/nodejs-auth](https://github.com/Pkan-Iv/nodejs-auth)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|14<br/>Tools used|12/01/23 <br/>Report generated|
+|14<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
